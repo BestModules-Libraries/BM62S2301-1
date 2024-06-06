@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For BM62S2301-1
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+
+BM62S2301_1	KEYWORD1	
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2	
+readRawAirVelocity		KEYWORD2
+readAirVelocity	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+##	LITERAL1		
+BM62S2301_1_ADDRESS	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
+AIRFLOW_RANGE_7_MPS	LITERAL1
+AIRFLOW_RANGE_15_MPS	LITERAL1
+Normal_DATA_SIZE	LITERAL1
+Raw_DATA_SIZE	LITERAL1
