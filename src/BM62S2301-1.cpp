@@ -2,7 +2,7 @@
 File:          BM62S2301-1.cpp
 Author:        BEST MODULES CORP.
 Description:   The sensor with IIC and obtain the corresponding value
-Version：      V1.0.1   --2024-06-05
+Version：      V1.0.2   --2024-08-01
 **********************************************************/
 #include "BM62S2301-1.h"
 /*************************************************
